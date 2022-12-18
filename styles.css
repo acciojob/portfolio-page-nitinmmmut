@@ -1,2 +1,28 @@
-
 /* Your CSS Code here. */
+* {
+    background-color: skyblue;
+}
+
+.h1 {
+    color: black;
+}
+
+.tag img {
+    width: 400px;
+    height: 250px;
+    ;
+}
+
+.h3 {
+    color: black;
+}
+
+#skils {
+    color: black;
+}
+
+#projects {
+    color: black;
+}
+
+;
